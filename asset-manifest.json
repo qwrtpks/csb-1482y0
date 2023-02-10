@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://qwrtpks.github.io/csb-1482y0/static/css/main.b453e41f.chunk.css",
+    "main.js": "https://qwrtpks.github.io/csb-1482y0/static/js/main.cb87cfcf.chunk.js",
+    "main.js.map": "https://qwrtpks.github.io/csb-1482y0/static/js/main.cb87cfcf.chunk.js.map",
+    "runtime-main.js": "https://qwrtpks.github.io/csb-1482y0/static/js/runtime-main.a7641782.js",
+    "runtime-main.js.map": "https://qwrtpks.github.io/csb-1482y0/static/js/runtime-main.a7641782.js.map",
+    "static/js/2.178c6943.chunk.js": "https://qwrtpks.github.io/csb-1482y0/static/js/2.178c6943.chunk.js",
+    "static/js/2.178c6943.chunk.js.map": "https://qwrtpks.github.io/csb-1482y0/static/js/2.178c6943.chunk.js.map",
+    "index.html": "https://qwrtpks.github.io/csb-1482y0/index.html",
+    "static/css/main.b453e41f.chunk.css.map": "https://qwrtpks.github.io/csb-1482y0/static/css/main.b453e41f.chunk.css.map",
+    "static/js/2.178c6943.chunk.js.LICENSE.txt": "https://qwrtpks.github.io/csb-1482y0/static/js/2.178c6943.chunk.js.LICENSE.txt",
+    "static/media/MOEMON.5fc331b7.png": "https://qwrtpks.github.io/csb-1482y0/static/media/MOEMON.5fc331b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7641782.js",
+    "static/js/2.178c6943.chunk.js",
+    "static/css/main.b453e41f.chunk.css",
+    "static/js/main.cb87cfcf.chunk.js"
+  ]
+}
